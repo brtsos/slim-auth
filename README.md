@@ -1,4 +1,4 @@
-# slim-born
+# slim-auth
 
 > Slim Framework 3 skeleton application with authentication and email confirmation.
 
@@ -7,7 +7,7 @@
 Check it for more info.
 
 I added a email confirmation. More details:
-
+[http://bsosna.com/2017/04/02/slim-framework-authorization-with-email-confirmation/](http://bsosna.com/2017/04/02/slim-framework-authorization-with-email-confirmation/)
 
 ## License
 
