@@ -2,7 +2,7 @@
 
 > Slim Framework 3 skeleton application with authentication and email confirmation.
 
-##Original repository:
+## Original repository:
 [HavenShen/slim-born](https://github.com/HavenShen/slim-born)
 Check it for more info.
 
