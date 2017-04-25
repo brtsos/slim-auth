@@ -16,11 +16,11 @@ $app = new \Slim\App([
 	'settings' => [
 		'displayErrorDetails' => true,
 		'mailer' => [
-			'host' => 'host',
-      			'username' => 'username',
-      			'password' => 'password'
+		    'host' => getenv('MAIL_HOST'),
+        'username' => getenv('MAIL_USERNAME'),
+        'password' => getenv('MAIL_PASSWORD')
 		],
-		'baseUrl' => 'http://yourdomain.com/public/'
+		'baseUrl' => getenv('BASE_URL')
 	],
 
 ]);
