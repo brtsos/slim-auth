@@ -1,2 +1,5 @@
 /vendor
+.idea/*
 .env
+phinx.yml
+/composer.lock

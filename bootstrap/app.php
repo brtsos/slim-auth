@@ -17,8 +17,8 @@ $app = new \Slim\App([
 		'displayErrorDetails' => true,
 		'mailer' => [
 		    'host' => getenv('MAIL_HOST'),
-        'username' => getenv('MAIL_USERNAME'),
-        'password' => getenv('MAIL_PASSWORD')
+            'username' => getenv('MAIL_USERNAME'),
+            'password' => getenv('MAIL_PASSWORD')
 		],
 		'baseUrl' => getenv('BASE_URL')
 	],

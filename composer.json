@@ -20,7 +20,8 @@
         "slim/flash": "^0.1.0",
         "vlucas/phpdotenv": "^2.4",
         "phpunit/phpunit": "^4.8",
-        "nette/mail": "^2.4"
+        "nette/mail": "^2.4",
+        "robmorgan/phinx": "v0.8.0"
     },
     "autoload": {
     	"psr-4": {
